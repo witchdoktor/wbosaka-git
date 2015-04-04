@@ -1,0 +1,130 @@
+body {
+	margin: 0;
+	padding: 0;
+	border-top: solid 2px #39F;
+	background: #F0F0F0;
+	font-size: 13px;
+	font-family: "ÉqÉâÉMÉmäpÉS Pro W3", "Hiragino Kaku Gothic Pro", "ÉÅÉCÉäÉI", Meiryo, Osaka, "ÇlÇr ÇoÉSÉVÉbÉN", "MS PGothic", sans-serif;
+}
+
+h1 {
+	font-size: 150%;
+	margin: 0;
+	padding-top: 15px;
+}
+
+h2 {
+	margin-top: 0;
+	padding-left: 7px;
+	font-size: 130%;
+	border-left: solid 3px #06F;
+}
+
+h3 {
+	margin: 40px 0 15px 0;
+	font-size: 110%;
+	border-bottom: dotted 1px #999;
+}
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+	padding: 0 15px;
+	background: #FFF;
+}
+
+#header {
+	height: 60px;
+	margin-bottom: 30px;
+	border-bottom: solid 2px #CCC;
+}
+
+#leftCol {
+	width: 150px;
+	float: left;
+}
+
+#mainCol {
+	width: 620px;
+	margin-bottom: 50px;
+	float: right;
+}
+
+#footer {
+	height: 60px;
+	padding-top: 20px;
+	background: #CCC;
+	clear: both;
+	text-align: center;
+	font-size: 11px;
+	color:#666;
+}
+
+p.pic {
+	margin: 0 0 15px 15px;
+	float: right;
+}
+
+ul.navi {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul.navi li {
+	width: 128px;
+	margin: 0 0 10px 0;
+	padding: 10px;
+	background: #39F;
+	border: solid 1px #06C;
+	text-align: center;
+	color: #FFF;
+}
+
+ul.navi li a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+ul.textList {
+	padding: 0;
+}
+
+ul.textList li {
+	padding-left: 17px;
+	background: url(../img/list.jpg) no-repeat 0 center;
+	list-style: none;
+	font-weight: bold;
+}
+
+dl {
+	border: dotted 1px #CCC;
+	padding: 10px;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0;
+}
+
+table {
+	width: 400px;
+	margin: 30px 0;
+}
+
+th, td {
+	padding: 5px;
+}
+
+th {
+	background: #06F;
+	color: #FFF;
+}
+
+td {
+	background: #B9DEF3;
+	text-align: center;
+}
